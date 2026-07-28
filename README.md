@@ -35,7 +35,7 @@
 > 각 스택별 실무 및 프로젝트 적용 경험입니다. (접어서 보기 가능)
 
 <details>
-<summary><b>💻 Language & Framework (클릭하여 열기)</b></summary>
+<summary><b>💻 Language & Framework</b></summary>
 
 * **Java & Kotlin**: Kotlin의 간결한 문법과 Java의 객체지향 패러다임을 이해하고 적재적소에 활용합니다.
 * **Spring Boot**: Layered Architecture 기반의 REST API 설계 및 비즈니스 로직을 구축합니다.
@@ -66,11 +66,10 @@
 <br/>
 
 ## 📊 Github Stats
-<!-- 본인의 github username으로 변경해주세요 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[perandowind]&show_icons=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=perandowind&show_icons=true&theme=radical" alt="Github Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[perandowind]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perandowind&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <br/>
