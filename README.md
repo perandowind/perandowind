@@ -1,6 +1,6 @@
 <!-- capsule-render를 활용한 다이내믹 그라데이션 헤더 -->
 # Welcome to My GitHub! 👋
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=안녕하세요,%20백엔드%20개발자%20[이름]입니다&fontSize=40&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=안녕하세요,%20백엔드%20개발자%20최준입니다&fontSize=40&animation=fadeIn" width="100%">
 
 <br/>
 
@@ -68,14 +68,13 @@
 ## 📊 Github Stats
 <!-- 본인의 github username으로 변경해주세요 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[본인깃허브ID]&show_icons=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[perandowind]&show_icons=true&theme=radical" alt="Github Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[본인깃허브ID]&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[perandowind]&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <br/>
 
 ## 📬 Contact
 * **Email** : `your_email@gmail.com`
-* **Blog** : [https://yourblog.tistory.com](https://yourblog.tistory.com)
-* **LinkedIn** : [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn** : [https://www.linkedin.com/in/joon-choi-4715393ba/](https://www.linkedin.com/in/joon-choi-4715393ba/)
