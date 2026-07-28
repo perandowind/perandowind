@@ -67,10 +67,9 @@
 
 ## 📊 Github Stats
 <p align="center">
-  <!-- 공식 주소 대신 github-stats-extended 미러 주소 사용 -->
-  <img src="https://github-stats-extended.vercel.app/api?username=perandowind&show_icons=true&theme=radical" alt="Github Stats" />
+  <img src="https://github-readme-stats-beryl-one-56.vercel.app/api?username=perandowind&show_icons=true&theme=radical" alt="Github Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=perandowind&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats-beryl-one-56.vercel.app/api/top-langs/?username=perandowind&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 <br/>
